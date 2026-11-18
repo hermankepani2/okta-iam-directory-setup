@@ -1,1 +1,1 @@
-# okta-iam-directory-setu
+# okta-iam-directory-setup
